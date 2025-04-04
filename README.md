@@ -22,23 +22,23 @@
 ---
 
 ## 📱 My Projects  
-🚀 **[Petaverse](#)** - A **complete pet care ecosystem**  
+🚀 **[Petaverse](https://github.com/MrAnshuRaj/petaverse-website)** - A **complete pet care ecosystem**  
    - 🐾 **Breeding, Grooming, Training & Vet Services**  
    - 📍 **Find pet shelters & adoption centers**  
    - 🛒 **Shop pet accessories & food**  
    - 💬 **Community feed for pet lovers**  
 
-🎵 **[Digital Antakshari](#)** - A **word-based Indian music game**  
+🎵 **[Digital Antakshari](https://github.com/MrAnshuRaj/Digital-Antakshari)** - A **word-based Indian music game**  
    - 🎶 **AI-powered word scoring system**  
    - 🏆 Compete with friends in **real-time**  
    - ⏳ **Time-based challenges** for added fun  
 
-💡 **[Ask It](#)** - AI-powered **Q&A assistant**  
+💡 **[Ask It](https://github.com/MrAnshuRaj/Ask-It)** - AI-powered **Q&A assistant**  
    - 🤖 **Instant responses with AI**  
    - 🔎 **Smart search & knowledge base**  
    - 💬 **User-friendly chatbot interface**  
 
-🛡 **[TrackMyGuard](#)** - A **guard management & attendance system**  
+🛡 **[TrackMyGuard](https://github.com/MrAnshuRaj/ojass25hackdescience/tree/main/APP)** - A **guard management & attendance system**  
    - 🏢 **Face authentication-based check-ins**  
    - 📍 **Live location tracking of security guards**  
    - 🔔 **Automated alerts & reports**  
@@ -48,7 +48,7 @@
    - 🔄 **Lend your bicycle when not in use**  
    - 🏅 **Gamified leaderboard for frequent users**  
 
-📜 **[Insurance Notifier](#)** - AI-powered **PDF scanner & reminder**  
+📜 **[Insurance Notifier](https://github.com/MrAnshuRaj/Insurance-Notifier)** - AI-powered **PDF scanner & reminder**  
    - 🔍 **Extracts renewal dates from PDFs**  
    - 📅 **Sends automatic alerts before expiration**  
    - ☁️ **Cloud storage & sync support**  
