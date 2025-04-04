@@ -67,9 +67,7 @@
 
 ## 🎯 Cool Stuff About Me  
 💻 **Tech Explorer:** Always experimenting with **Android, AI, IoT & Web Development**  
-🎶 **Music Lover:** Enjoys **dancing & vibing** to beats!  
-📝 **Journaling:** Writing past experiences to **decode my thoughts & gain clarity**  
-📽 **YouTube Enthusiast:** Finds hidden ideas while watching **relaxing song videos**  
+🎶 **Music Lover:** Enjoys **dancing & vibing** to beats!
 ⚡ **Event Organizer:** Managed college events like **Soft Skills Club & Team Daksh Racing**  
 
 ---
